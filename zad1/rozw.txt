@@ -1,0 +1,8 @@
+echo "Rodzaje wirtualizacji:"
+echo " -PELNA WIZUALIZACJA- W tej wizualizacji emulowany jest caly komputer oraz wzystkie urzadzenia
+System uruchomiony na takiej maszynie nie ma swiadomosci ze uruchomiony jest w srodku wizualnym."
+echo "-WIRTUALIZACJA SPRZETOWA- Jest to odmiana wizualizacji pelnej ktora korzysta ze sprzetowych rozszerzen
+wirtualnej architektury x86, dla procesorow Intel i ADM."
+echo "-PARAWIRTUALIZACJA- W przypadku tej wizualizacji instrukcie wykonywane sa besposrednio
+przez oprogramowanie hypevisor'a, w przeciwienstwie do poprzednik√w."
+
